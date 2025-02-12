@@ -28,7 +28,7 @@ python analysis.py
 
 You can also run the Jupyter Notebook for interactive exploration:
 
-jupyter notebook football.ipynb
+Jupyter Notebook Football.ipynb
 
 Data Description
 The dataset contains the following columns:
